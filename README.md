@@ -1,9 +1,11 @@
-Certainly! Here's the modified Markdown file with the "Contributing" section and everything until "Contact":
-
-```markdown
 # Huddle App
 
-Huddle is a Flutter-based mobile application that simplifies the process of planning and coordinating hangouts with friends. The app allows users to initiate hangouts, invite friends, share real-time location information, split expenses, and more.
+Introducing Huddle, the ultimate hangout planning app designed to elevate your social experiences. With Huddle, initiating a hangout is a breeze—simply start a session, and watch as personalized invites seamlessly reach your chosen friends. Stay connected effortlessly by viewing each other's live locations and estimated arrival times, ensuring everyone arrives at the rendezvous point with ease. The magic doesn't stop there—Huddle transforms your hangout into a shared memory bank by automatically collecting and organizing all the pictures taken during the event into a dedicated folder within the app. The inclusivity continues with built-in Splitwise functionality, making group expenses transparent and stress-free. Looking ahead, Huddle envisions even more features to enhance your hangout planning, ensuring every moment is memorable and every detail is effortlessly managed. Join us on this exciting journey of redefining social connections! 🚀
+
+Here's why you should use it:
+   - Simplify gathering coordination with Huddle's streamlined hangout planning, automating invites and ensuring a hassle-free experience.
+   - Stay connected in real-time—track friends' live locations and arrival times, ensuring everyone arrives effortlessly at the hangout spot.
+   -  Capture and share moments with automatic photo collection, and streamline group expenses with built-in Splitwise functionality. Huddle enhances your social interactions from planning to reminiscing.
 
 ## Features
 
@@ -27,6 +29,22 @@ Huddle is a Flutter-based mobile application that simplifies the process of plan
 
 6. **User Profiles:**
    - Personalized user profiles with profile pictures and user information.
+  
+## Tech Stack
+  ![Flutter Logo](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  
+  ![Dart Logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+  ![Firebase Logo](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+  ![Google Maps Logo](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+  ![Splitwise Logo](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+  ![GitHub Logo](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+  ![Markdown Logo](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ## Screenshots
 
@@ -40,59 +58,15 @@ Huddle is a Flutter-based mobile application that simplifies the process of plan
 
    ```bash
    git clone https://github.com/your-username/huddle-app.git
-   ```
 
-2. **Navigate to the project folder:**
-
-   ```bash
-   cd huddle-app
-   ```
-
-3. **Install dependencies:**
+2. **Install Dependencies**
 
    ```bash
    flutter pub get
-   ```
 
-4. **Run the app:**
+3. ***Run The App***
 
    ```bash
    flutter run
-   ```
 
-## Contributing
 
-We welcome contributions to make Huddle even better! If you'd like to contribute, please follow these steps:
-
-1. **Fork the repository.**
-
-2. **Create a new branch:**
-
-   ```bash
-   git checkout -b feature/new-feature
-   ```
-
-3. **Make your changes and commit them:**
-
-   ```bash
-   git commit -m 'Add new feature'
-   ```
-
-4. **Push your changes to your fork:**
-
-   ```bash
-   git push origin feature/new-feature
-   ```
-
-5. **Open a pull request.**
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or feedback, please contact [Your Name](mailto:your.email@example.com).
-```
-
-Save this content in a file with the extension `.md`, for example, `README.md`.
